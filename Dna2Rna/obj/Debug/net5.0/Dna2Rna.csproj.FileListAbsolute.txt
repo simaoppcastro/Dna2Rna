@@ -1,0 +1,16 @@
+D:\Dir_castrosp\CW\Dna2Rna\Dna2Rna\bin\Debug\net5.0\Dna2Rna.exe
+D:\Dir_castrosp\CW\Dna2Rna\Dna2Rna\bin\Debug\net5.0\Dna2Rna.deps.json
+D:\Dir_castrosp\CW\Dna2Rna\Dna2Rna\bin\Debug\net5.0\Dna2Rna.runtimeconfig.json
+D:\Dir_castrosp\CW\Dna2Rna\Dna2Rna\bin\Debug\net5.0\Dna2Rna.runtimeconfig.dev.json
+D:\Dir_castrosp\CW\Dna2Rna\Dna2Rna\bin\Debug\net5.0\Dna2Rna.dll
+D:\Dir_castrosp\CW\Dna2Rna\Dna2Rna\bin\Debug\net5.0\ref\Dna2Rna.dll
+D:\Dir_castrosp\CW\Dna2Rna\Dna2Rna\bin\Debug\net5.0\Dna2Rna.pdb
+D:\Dir_castrosp\CW\Dna2Rna\Dna2Rna\obj\Debug\net5.0\Dna2Rna.csproj.AssemblyReference.cache
+D:\Dir_castrosp\CW\Dna2Rna\Dna2Rna\obj\Debug\net5.0\Dna2Rna.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dir_castrosp\CW\Dna2Rna\Dna2Rna\obj\Debug\net5.0\Dna2Rna.AssemblyInfoInputs.cache
+D:\Dir_castrosp\CW\Dna2Rna\Dna2Rna\obj\Debug\net5.0\Dna2Rna.AssemblyInfo.cs
+D:\Dir_castrosp\CW\Dna2Rna\Dna2Rna\obj\Debug\net5.0\Dna2Rna.csproj.CoreCompileInputs.cache
+D:\Dir_castrosp\CW\Dna2Rna\Dna2Rna\obj\Debug\net5.0\Dna2Rna.dll
+D:\Dir_castrosp\CW\Dna2Rna\Dna2Rna\obj\Debug\net5.0\ref\Dna2Rna.dll
+D:\Dir_castrosp\CW\Dna2Rna\Dna2Rna\obj\Debug\net5.0\Dna2Rna.pdb
+D:\Dir_castrosp\CW\Dna2Rna\Dna2Rna\obj\Debug\net5.0\Dna2Rna.genruntimeconfig.cache
